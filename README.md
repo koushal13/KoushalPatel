@@ -7,6 +7,12 @@ I enjoy exploring the intersection of **AI**, **automation**, and **practical en
 
 ### 🧠 What I’ve Built
 
+#### 📈 [Swing-Trading-Bot](https://github.com/koushal13/swing-trading-bot)
+An end-to-end swing trading intelligence platform with a **Next.js website**, **Python market scanners**, **regional briefings**, and **automated GitHub Actions + Vercel deployment**.
+Publishes India and North America signals, powers subscriber workflows, and ships daily data updates to production.
+
+> 🌎 Combines market automation, AI-assisted analysis, and production deployment into one live system.
+
 #### 🚀 [SilentCanoe-FileForge](https://github.com/koushal13/SilentCanoe-FileForge)
 A universal file conversion and manipulation toolkit with a **professional GUI**, **CLI tools**, and **6-checkpoint validation** system.  
 Supports images, documents, audio, and video with batch operations and real-time progress tracking.
