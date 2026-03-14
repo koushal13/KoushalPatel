@@ -7,6 +7,11 @@ I enjoy exploring the intersection of **AI**, **automation**, and **practical en
 
 ### 🧠 What I’ve Built
 
+#### 💼 [ValueBot](https://github.com/koushal13/BOT)
+A production-ready **Discord AI assistant + investing research bot** built with **Python**, **discord.py**, and **container-first deployment**.
+It combines value-investing signal logic (Graham/Buffett/Munger lenses), live market + web context retrieval, and executive assistant workflows (reminders, check-ins, project nudges, and briefings).
+> 🚢 Runs locally with Docker or Python, deploys on Render (Docker) and Oracle VM (systemd + docker compose).
+
 #### 📈 [Swing-Trading-Bot](https://github.com/koushal13/swing-trading-bot)
 An end-to-end swing trading intelligence platform with a **Next.js website**, **Python market scanners**, **regional briefings**, and **automated GitHub Actions + Vercel deployment**.
 Publishes India and North America signals, powers subscriber workflows, and ships daily data updates to production.
