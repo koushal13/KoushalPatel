@@ -24,6 +24,12 @@ Supports images, documents, audio, and video with batch operations and real-time
 
 > 🖼️ Converts everything — from HEIC photos and PDFs to audio and video — with performance, validation, and an elegant interface.
 
+#### 🛶 [SilentCanoe Utilities](https://github.com/koushal13/silentcanoe-utilities)
+A privacy-first suite of **26 browser-based utilities** that run locally on-device, including document AI tools, barcode and QR workflows, PDF and image processing, and developer helpers.
+Built as a static multi-page web app and deployed live at [utilities.silentcanoe.com](https://utilities.silentcanoe.com/).
+
+> 🔐 Browser-first architecture with local processing for everyday practical workflows.
+
 #### 🤖 [SilentCanoe-WhisperMind](https://github.com/koushal13/SilentCanoe-WhisperMind)
 A **local AI chatbot** with **voice input**, **RAG document search**, and **full offline privacy**.  
 Powered by **Ollama (Llama3, Mistral)**, **OpenAI Whisper**, and **Coqui TTS**, WhisperMind turns your personal documents into an intelligent, private assistant.
